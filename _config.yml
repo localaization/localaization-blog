@@ -21,7 +21,7 @@ baseurl: "/localaization-blog" # the subpath of your site, e.g. /blog
 url: "https://localaization.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TuWebO
 github_username:  localaization
-instagram_username: tusesiondesurf
+author: El Farolillo ♥ SVB, ES.
 
 # Build settings
 markdown: kramdown

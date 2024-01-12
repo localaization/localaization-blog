@@ -4,7 +4,7 @@ title:  "The Road Map"
 date:   2023-01-14 22:35:43 +0000
 category: projects
 author: Localaization
-excerpt: We will be changing fast, how are we going to catch up?.
+excerpt: About changes, local communities and technology.
 ---
 
 1. Have an overview about ML/AI.  
@@ -16,3 +16,4 @@ excerpt: We will be changing fast, how are we going to catch up?.
     3. Identity & blockchain.  
 5. Make each project interesting.  
 6. Update this list.  
+7. Have this blog automagically created with the human help.
